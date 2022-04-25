@@ -1,4 +1,3 @@
-# report01 19D8102003D Ibuki Yoshijima
 import random
 import math
 import numpy as np
